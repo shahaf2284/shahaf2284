@@ -1,8 +1,8 @@
 # Hi there, I'm Shahaf! ✌️
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shahaf2284&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shahaf2284&show_icons=true&theme=tokyonight" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaf2284&layout=compact" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaf2284&layout=compact" />
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
