@@ -1,6 +1,6 @@
 # Hi there, I'm Shahaf! ✌️
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=shahaf2284&show_icons=true&theme=tokyonight" />
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=shahaf2284&show_icons=true&theme=tokyonight" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaf2284&layout=compact" />
 
 
