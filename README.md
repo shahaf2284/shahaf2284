@@ -1,7 +1,7 @@
 # Hi there, I'm Shahaf! ✌️
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=shahaf2284&show_icons=true&theme=tokyonight" />
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaf2284&layout=compact&hide=mathematica" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaf2284&layout=compact&hide=mathematica,Makefile" />
 
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
