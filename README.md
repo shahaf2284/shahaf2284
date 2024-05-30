@@ -1,7 +1,7 @@
 # Hi there, I'm Shahaf! ✌️
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=shahaf2284&show_icons=true&theme=radical" />
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaf2284&layout=compact&hide=mathematica,Makefile" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaf2284&layout=compact&hide=mathematica,Makefile" />
 
 ## Familiarity with systems:
 
