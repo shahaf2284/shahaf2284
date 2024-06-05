@@ -1,6 +1,13 @@
 # Hi there, I'm Shahaf! ✌️
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=shahaf2284&show_icons=true&theme=radical" />
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaf2284&layout=compact&hide=mathematica,Makefile" />
+<p align="left"><br>
+<a href="https://github.com/shahaf2284">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shahaf2284&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahaf2284&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+
 
 ## Familiarity with systems:
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
