@@ -6,7 +6,9 @@
 </a>
 </p>
 
-
+### Courses & Certifications
+- 🐧 **Linux Journey – LabEx**  
+  Hands-on Linux fundamentals: filesystem, permissions, processes, networking
 
 
 ## Familiarity with systems:
