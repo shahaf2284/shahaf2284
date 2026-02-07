@@ -5,9 +5,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahaf2284&layout=compact&langs_count=8&theme=algolia&hide=mathematica"/>
 </a>
 </p>
-
 ### Familiarity with systems & learning
-[![Linux Journey](https://img.shields.io/badge/Linux%20Journey-LabEx-yellow?logo=linux)](https://labex.io/users/shahaf2284)
+[![Linux Journey](https://img.shields.io/badge/Linux%20Journey-LabEx-yellow?logo=linux)]([https://labex.io/users](https://labex.io/learn/shahaf2284)
 ![Linux Journey](https://img.shields.io/badge/Course-Linux%20Journey%20(LabEx)-orange)
 
 
