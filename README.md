@@ -26,21 +26,22 @@
 
 ### Courses & Continuous Learning (LabEx)
 
-<p align="left">
-  <span style="display:inline-block; width:220px; vertical-align:top; margin-right:24px;">
-    <b>🐧 Linux Journey</b><br/>
-    <img src="https://img.shields.io/badge/Progress-65%25-yellowgreen?style=for-the-badge&logo=linux" />
-  </span>
+<table>
+  <tr>
+    <td align="center" width="220">
+      <b>🐧 Linux Journey</b><br/><br/>
+      <img src="https://img.shields.io/badge/Progress-65%25-yellowgreen?style=for-the-badge&logo=linux" />
+    </td>
+    <td align="center" width="220">
+      <b>🌐 Linux Networking</b><br/><br/>
+      <img src="https://img.shields.io/badge/Progress-40%25-orange?style=for-the-badge" />
+    </td>
+    <td align="center" width="220">
+      <b>💻 Bash & Shell Scripting</b><br/><br/>
+      <img src="https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
-  <span style="display:inline-block; width:220px; vertical-align:top; margin-right:24px;">
-    <b>🌐 Linux Networking</b><br/>
-    <img src="https://img.shields.io/badge/Progress-40%25-orange?style=for-the-badge" />
-  </span>
-
-  <span style="display:inline-block; width:220px; vertical-align:top;">
-    <b>💻 Bash & Shell Scripting</b><br/>
-    <img src="https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge" />
-  </span>
-</p>
 
 
