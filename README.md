@@ -26,15 +26,22 @@
 
 ### Courses & Continuous Learning (LabEx)
 
+### Courses & Continuous Learning (LabEx)
+
 <p align="left">
-  <b>Linux Journey</b><br/>
-  <a href="https://labex.io/users/shahaf2284">
+  <span style="display:inline-block; margin-right:40px;">
+    <b>Linux Journey</b><br/>
     <img src="https://img.shields.io/badge/Progress-65%25-yellowgreen?style=for-the-badge&logo=linux" />
-  </a>
+  </span>
 
-  <b>Linux Networking</b><br/>
-  <img src="https://img.shields.io/badge/Progress-40%25-orange?style=for-the-badge" />
+  <span style="display:inline-block; margin-right:40px;">
+    <b>Linux Networking</b><br/>
+    <img src="https://img.shields.io/badge/Progress-40%25-orange?style=for-the-badge" />
+  </span>
 
-  <b>Bash & Shell Scripting</b><br/>
-  <img src="https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge" />
+  <span style="display:inline-block;">
+    <b>Bash & Shell Scripting</b><br/>
+    <img src="https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge" />
+  </span>
 </p>
+
