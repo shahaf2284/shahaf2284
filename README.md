@@ -32,7 +32,7 @@
       <b>🐧 Linux Journey</b>
       <br/><br/>
       <a href="https://labex.io/users/shahaf2284" target="_blank">
-        <img src="https://img.shields.io/badge/Progress-65%25-yellowgreen?style=for-the-badge&logo=linux" />
+        <img src="https://img.shields.io/badge/Progress-90%25-yellowgreen?style=for-the-badge&logo=linux" />
       </a>
     </td>
     <td align="center" width="220">
