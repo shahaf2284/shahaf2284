@@ -7,7 +7,7 @@
 </p>
 ### Familiarity with systems & learning
 [![Linux Journey](https://img.shields.io/badge/Linux%20Journey-LabEx-yellow?logo=linux)]([https://labex.io/users](https://labex.io/user/shahaf2284)
-![Linux Journey](https://img.shields.io/badge/Course-Linux%20Journey%20(LabEx)-orange)
+![Linux Journey](https://img.shields.io/badge/Course-Linux%20Journey%20(LabEx)-orange) 
 
 
 ## Familiarity with systems:
