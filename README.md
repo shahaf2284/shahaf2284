@@ -6,9 +6,9 @@
 </a>
 </p>
 
-### Courses & Certifications
-- 🐧 **Linux Journey – LabEx**  
-  Hands-on Linux fundamentals: filesystem, permissions, processes, networking
+### Familiarity with systems & learning
+![Linux](https://img.shields.io/badge/Linux-Advanced-yellow?logo=linux)
+![Linux Journey](https://img.shields.io/badge/Course-Linux%20Journey%20(LabEx)-orange)
 
 
 ## Familiarity with systems:
