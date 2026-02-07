@@ -6,33 +6,6 @@
 </a>
 </p>
 
-### Familiarity with systems & learning
-<p align="left">
-  <a href="https://labex.io/users/shahaf2284">
-    <img src="https://img.shields.io/badge/Linux%20Journey-LabEx-yellow?style=for-the-badge&logo=linux" />
-  </a>
-  <img src="https://img.shields.io/badge/Course-Linux%20Journey%20(LabEx)-orange?style=for-the-badge" />
-</p>
-### Courses & Continuous Learning (LabEx)
-
-<p align="left">
-  <b>Linux Journey</b><br/>
-  <a href="https://labex.io/users/shahaf2284">
-    <img src="https://img.shields.io/badge/Progress-65%25-yellowgreen?style=for-the-badge&logo=linux" />
-  </a>
-</p>
-
-<p align="left">
-  <b>Linux Networking</b><br/>
-  <img src="https://img.shields.io/badge/Progress-40%25-orange?style=for-the-badge" />
-</p>
-
-<p align="left">
-  <b>Bash & Shell Scripting</b><br/>
-  <img src="https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge" />
-</p>
-
-
 ## Familiarity with systems:
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -51,5 +24,21 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+### Courses & Continuous Learning (LabEx)
 
+<p align="left">
+  <b>Linux Journey</b><br/>
+  <a href="https://labex.io/users/shahaf2284">
+    <img src="https://img.shields.io/badge/Progress-65%25-yellowgreen?style=for-the-badge&logo=linux" />
+  </a>
+</p>
 
+<p align="left">
+  <b>Linux Networking</b><br/>
+  <img src="https://img.shields.io/badge/Progress-40%25-orange?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <b>Bash & Shell Scripting</b><br/>
+  <img src="https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge" />
+</p>
