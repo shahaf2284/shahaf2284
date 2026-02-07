@@ -29,9 +29,7 @@
 <table>
   <tr>
     <td align="center" width="220">
-      <a href="https://labex.io/users/shahaf2284" target="_blank">
-        <b>🐧 Linux Journey</b>
-      </a>
+      <b>🐧 Linux Journey</b>
       <br/><br/>
       <a href="https://labex.io/users/shahaf2284" target="_blank">
         <img src="https://img.shields.io/badge/Progress-65%25-yellowgreen?style=for-the-badge&logo=linux" />
@@ -48,39 +46,6 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td align="center" width="240">
-      <a href="https://labex.io/users/shahaf2284" target="_blank">
-        <b>🐧 Linux Journey</b>
-      </a>
-      <br/><br/>
-      <a href="https://labex.io/users/shahaf2284" target="_blank">
-        <img src="https://img.shields.io/badge/Progress-65%25-yellowgreen?style=for-the-badge&logo=linux" />
-      </a>
-    </td>
-
-    <td align="center" width="240">
-      <a href="https://labex.io" target="_blank">
-        <b>🌐 Linux Networking</b>
-      </a>
-      <br/><br/>
-      <a href="https://labex.io" target="_blank">
-        <img src="https://img.shields.io/badge/Progress-40%25-orange?style=for-the-badge" />
-      </a>
-    </td>
-
-    <td align="center" width="240">
-      <a href="https://labex.io" target="_blank">
-        <b>💻 Bash & Shell Scripting</b>
-      </a>
-      <br/><br/>
-      <a href="https://labex.io" target="_blank">
-        <img src="https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 
