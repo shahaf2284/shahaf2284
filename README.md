@@ -31,14 +31,10 @@
   <a href="https://labex.io/users/shahaf2284">
     <img src="https://img.shields.io/badge/Progress-65%25-yellowgreen?style=for-the-badge&logo=linux" />
   </a>
-</p>
 
-<p align="left">
   <b>Linux Networking</b><br/>
   <img src="https://img.shields.io/badge/Progress-40%25-orange?style=for-the-badge" />
-</p>
 
-<p align="left">
   <b>Bash & Shell Scripting</b><br/>
   <img src="https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge" />
 </p>
