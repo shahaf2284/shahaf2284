@@ -5,9 +5,14 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahaf2284&layout=compact&langs_count=8&theme=algolia&hide=mathematica"/>
 </a>
 </p>
+
 ### Familiarity with systems & learning
-[![Linux Journey](https://img.shields.io/badge/Linux%20Journey-LabEx-yellow?logo=linux)](https://labex.io/users/shahaf2284)
-[![Course](https://img.shields.io/badge/Course-Linux%20Journey-orange)]
+<p align="left">
+  <a href="https://labex.io/users/shahaf2284">
+    <img src="https://img.shields.io/badge/Linux%20Journey-LabEx-yellow?style=for-the-badge&logo=linux" />
+  </a>
+  <img src="https://img.shields.io/badge/Course-Linux%20Journey%20(LabEx)-orange?style=for-the-badge" />
+</p>
 
 
 ## Familiarity with systems:
