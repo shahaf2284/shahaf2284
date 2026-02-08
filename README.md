@@ -44,6 +44,13 @@
       <img src="https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge" />
     </td>
   </tr>
+  <tr>
+  <td colspan="3" align="center">
+    🏆 <b>LabEx Global Rank:</b>
+    <img src="https://img.shields.io/badge/%239308-Top%2010k-gold?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Skills-48-blue?style=for-the-badge" />
+  </td>
+</tr>
 </table>
 
 
